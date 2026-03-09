@@ -1,8 +1,8 @@
-# Footwork
+# Footwork 2026
 
 # Gigs
 
-* [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
+* [11. Jul @Mannheim](#11-jul-mannheim)
 
 DAS WIRD SO BOMBE LEUTE!!
 
@@ -14,13 +14,13 @@ DAS WIRD SO BOMBE LEUTE!!
 
 # Rehersals
 
-* [12. Apr 2026 @Klapperfeld](#12-apr-2026-klapperfeld)
-* [15. Mar 2026 @Klapperfeld](#15-mar-2026-klapperfeld)
-* [8. Mar 2026 @Klapperfeld](#8-mar-2026-klapperfeld)
+* [12. Apr @Klapperfeld](#12-apr-klapperfeld)
+* [15. Mar @Klapperfeld](#15-mar-klapperfeld)
+* [8. Mar @Klapperfeld](#8-mar-klapperfeld)
 
 # Gig Setlists
 
-## 11. Jul 2026 @Mannheim
+## 11. Jul @Mannheim
 
 TBD
 
@@ -28,13 +28,13 @@ TBD
 
 # Reharsal setlists
 
-## 12. Apr 2026 @Klapperfeld
+## 12. Apr @Klapperfeld
 
 * TBA
 
 [Back to top](#gigs)
 
-## 15. Mar 2026 @Klapperfeld
+## 15. Mar @Klapperfeld
 
 * Bad Bad News [F] [link](https://www.youtube.com/watch?v=cztfyj1dVgk)
 * Dear Limmertz [D] [link](https://www.youtube.com/watch?v=u_Dx_Iq0c1A)
@@ -48,7 +48,7 @@ TBD
 
 [Back to top](#gigs)
 
-## 8. Mar 2026 @Klapperfeld
+## 8. Mar @Klapperfeld
 
 * Dear Limmertz [D] [link](https://www.youtube.com/watch?v=u_Dx_Iq0c1A)
 * Everybody Loves The Sunshine [Gb] [link](https://www.youtube.com/watch?v=SSBWiFGzsyU)
