@@ -3,6 +3,7 @@
 # Gigs
 
 * [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
+
 DAS WIRD SO BOMBE LEUTE!!
 
 # Opportunities
@@ -31,8 +32,11 @@ TBD
 
 * TBA
 
+[Back to top](#gigs)
+
 ## 15. Mar 2026 @Klapperfeld
 
+* Bad Bad News [F] [link](https://www.youtube.com/watch?v=cztfyj1dVgk)
 * Dear Limmertz [D] [link](https://www.youtube.com/watch?v=u_Dx_Iq0c1A)
 * Everybody Loves The Sunshine [Gb] [link](https://www.youtube.com/watch?v=SSBWiFGzsyU)
 * Liquid Love [F] [link](https://www.youtube.com/watch?v=TPS4LOkss1Y)
